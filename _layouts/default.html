@@ -11,6 +11,7 @@
           <a href="/">{{ site.plainwhite.name }}</a>
         </h2>
         <p class="tagline">{{ site.plainwhite.tagline }}</p>
+        <p>방구석 개발자</p>
         <ul class="social">
           {%- if site.plainwhite.social_links.github -%}
             <a href="https://github.com/{{ site.plainwhite.social_links.github }}">
@@ -19,17 +20,17 @@
               </li>
             </a>
           {%- endif -%}
-          {%- if site.plainwhite.social_links.linkedIn -%}
-            <a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}">
+          {%- if site.plainwhite.social_links.instagram -%}
+            <a href="https://www.instagram.com/{{ site.plainwhite.social_links.instagram }}">
               <li>
-                <i class="icon-linkedin-squared"></i>
+                <i class="icon-instagram"></i>
               </li>
             </a>
           {%- endif -%}
-          {%- if site.plainwhite.social_links.twitter -%}
-            <a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}">
+          {%- if site.plainwhite.social_links.mail -%}
+            <a href="mailto:{{ site.plainwhite.social_links.mail }}">
               <li>
-                <i class="icon-twitter-squared"></i>
+                <i class="icon-mail-alt"></i>
               </li>
             </a>
           {%- endif -%}
