@@ -23,3 +23,15 @@ UI/UX, design 관련 웹사이트 모음
 [비헨스](https://www.behance.net/) - 창작물 공유
 
 [siteinspire](https://www.siteinspire.com/) - UI 공유
+
+[smashing magazine](https://www.smashingmagazine.com/) - UX/UI 관련 기사
+
+[UX matters](https://www.uxmatters.com/) - UX 관련 아이디어 제공
+
+[awwards](https://www.awwwards.com/) - 웹 디자인 공유 및 비평
+
+[designernews](https://www.designernews.co/) - 디자인 관련 뉴스
+
+[ux magazine](https://uxmag.com/) - UX관련 이벤트
+
+[ui movement](https://uimovement.com/) - ui 관련 디자인 요소
